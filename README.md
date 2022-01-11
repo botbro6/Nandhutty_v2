@@ -38,7 +38,7 @@ Copy this link https://heroku.com/deploy?template=https://github.com/Ajmal-Achu/
 GET QR
 $ apt install git
 $ apt install nodejs --fix-missing
-$ git clone https://github.com/botbro6/Nandhutty_v2/edit/master/README.md
+$ git clone https://github.com/Ajmal-Achu/Nandhutty_v2/edit/master/README.md
 $ cd Nandhutty_v2
 $ npm install @adiwajshing/baileys
 $ npm install chalk
