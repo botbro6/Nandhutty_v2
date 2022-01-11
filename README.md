@@ -9,7 +9,7 @@
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/Ajmal-Achu">Ajmal-Achu</a> to make it public
+Project created by <a href="https://github.com/botbro6">Ajmal-Achu</a> to make it public
     <br>
        | © |
         Reserved |
@@ -38,7 +38,7 @@ Copy this link https://heroku.com/deploy?template=https://github.com/Ajmal-Achu/
 GET QR
 $ apt install git
 $ apt install nodejs --fix-missing
-$ git clone https://github.com/Ajmal-Achu/Nandhutty_v2
+$ git clone https://github.com/botbro6/Nandhutty_v2/edit/master/README.md
 $ cd Nandhutty_v2
 $ npm install @adiwajshing/baileys
 $ npm install chalk
